@@ -1,0 +1,19 @@
+#tabla { 
+    margin: 20px auto;
+    width: 50%;
+    height: 50px;
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+}
+#nombre, #nota, #btn{
+    margin : 50px auto;
+}
+.main{
+    text-align: center;
+}
+td,th{
+    padding: 10px;
+    text-align: center;
+}
